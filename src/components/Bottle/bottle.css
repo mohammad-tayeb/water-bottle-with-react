@@ -1,0 +1,13 @@
+.bottle{
+    border: 2px solid orange;
+    margin: 10px;
+    border-radius: 10px ;
+}
+
+.bottle img{
+    width: 200px;
+}
+
+.button{
+    margin-bottom: 10px;
+}
